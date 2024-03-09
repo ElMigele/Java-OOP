@@ -1,3 +1,5 @@
+package Task_1;
+
 public class HotBeverage extends Beverage {
 
     private int temperature;

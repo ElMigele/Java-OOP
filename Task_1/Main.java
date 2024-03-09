@@ -1,3 +1,5 @@
+package Task_1;
+
 public class Main {
     public static void main(String[] args) {
         HotBeverage hgt = new HotBeverage("Hot Green Tea",  80);

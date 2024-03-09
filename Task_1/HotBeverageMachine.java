@@ -1,3 +1,5 @@
+package Task_1;
+
 public class HotBeverageMachine extends VendingMachine<HotBeverage> {
     @Override
     public boolean LoadProduct(HotBeverage p, float volume){
